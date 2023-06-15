@@ -193,8 +193,6 @@ Intellij IDEA:
 | `Ctrl` + `T`                             | Update Project                                |
 | `Ctrl` + `Alt` + `Z`                     | Rollback                                      |
 | `Ctrl` + `Shift` + `K`                   | Push...                                       |
-| `Shift` + `Escape`                       | Tool windows. Hide Active Tool Window         |
-| `Ctrl` + `Shift` + `F12`                 | Hide All Tool Windows                         |
 | `Alt` + `1`                              | Show Project window                           |
 | `Alt` + `4`                              | Show Run window                               |
 | `Alt` + `5`                              | Show Debug window                             |
