@@ -66,7 +66,7 @@ Intellij IDEA:
 | `Ctrl` + `E`                                   | `Cmd` + `E`                                    | Recent files                                  |
 | `Ctrl` + `Alt` + `L`                           | `Cmd` + `Option` + `L`                         | Reformat Code                                 |
 | `Ctrl` + `Alt` + `O`                           | `Ctrl` + `Option` + `O`                        | Optimize imports                              |
-| `Ctrl` + `Alt` + `I`                           |                                                | Auto-Indent Lines                             |
+| `Ctrl` + `Alt` + `I`                           | `Ctrl` + `Option` + `I`                        | Auto-Indent Lines                             |
 | `Ctrl` + `Shift` + `Alt` + `T`                 | `Ctrl` + `T`                                   | Invoke refactoring                            |
 | `Ctrl` + `/`                                   | `Cmd` + `/`                                    | Add/remove line comment                       |
 | `Ctrl` + `Shift` + `/`                         | `Cmd` + `Shift` + `/`                          | Add/remove block comment                      |
